@@ -42,7 +42,7 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "animasi4":
-    "CMD`.sadboy`\
+    "CMD`.sadgirl`\
     \nUsage: hiks\
     \n\nCMD`.punten`\
     \n\nCMD`.pantau`\
