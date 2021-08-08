@@ -1,7 +1,7 @@
 FROM biansepang/weebproject:buster
 
 # Install repo link
-RUN git clone -b Treep-Bot https://github.com/ferikunn/Treep-Bot /root/userbot
+RUN git clone -b Treep-Bot https://github.com/BeeKingg/Machacila-Bot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
