@@ -227,7 +227,7 @@ async def amireallyalive(alive):
         f"**☂️Mαƈԋαƈιʅα-𝙱𝙾𝚃☂️** \n"
         f"\n__**{TREEP_TEKS_KUSTOM}**__\n"
         f"**══════════════════════**\n"
-        f"**Tuan** \n"
+        f"**Ratu** \n"
         f" ↳ : `{DEFAULTUSER}` \n"
         f"**👤 Username** \n"
         f" ↳ : `@{user.username}` \n"
