@@ -3,15 +3,15 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern='^.feri(?: |$)(.*)')
+@register(outgoing=True, pattern='^.cece(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(3)
-    await typew.edit("`Hai Perkenalkan Namaku Feri`")
+    await typew.edit("`Hai Perkenalkan Namaku machacila`")
     sleep(3)
-    await typew.edit("`17 Tahun`")
+    await typew.edit("`19 Tahun`")
     sleep(1)
-    await typew.edit("`Tinggal Di Trenggalek, Salam Kenal:)`")
+    await typew.edit("`Tinggal Di Medan, Salam Kenal:)`")
 
 
 @register(outgoing=True, pattern='^ilyu(?: |$)(.*)')
@@ -58,7 +58,7 @@ CMD_HELP.update({
     "animasi3":
     "CMD`.pe`\
 \nPenjelasan: Cek lah asw.\
-\n\nCMD:`.feri`\
+\n\nCMD:`.cece`\
 \nPenjelasan: Cek lah asw.\
 \n\nCMD:`.ilyu`\
 \nPenjelasan: Cek lah asw.\
