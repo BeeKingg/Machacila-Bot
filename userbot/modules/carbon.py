@@ -208,7 +208,7 @@ async def carbon_api(e):
         e.chat_id,
         file,
         caption="Made using [Carbon](https://carbon.now.sh/about/),\
-        \na project by [Cece](https://zoeyvi)",
+        \na project by [Cece](https://t.me/zoeyvi)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
     )
